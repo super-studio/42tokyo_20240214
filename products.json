@@ -7,7 +7,7 @@
       "https://d2w53g1q050m78.cloudfront.net/futsunoshop/ec_assets/13a2d626adf83c21d442e4d214838c9f870c4268-original.jpg?1706145355",
       "https://d2w53g1q050m78.cloudfront.net/futsunoshop/ec_assets/48077907cf6317f6703830a474b909149b6dc68d-original.jpg?1706145367"
     ],
-    "price": 3800,
+    "price": "3,800 [税込]",
     "title": "ひと塗りすれば、料理になる。",
     "description": "賞味期限や価格といった制約条件を取り払い、レストランクオリティの手作りマヨネーズを目指しました。口にした瞬間、マヨネーズとは思えないなんとも言えない透明感が広がります。ブロッコリー、ゆで卵、生姜焼きに、アイスまで。独特の透明感が、素材の味を引き立てます。",
     "sale_flag": true,
@@ -21,7 +21,7 @@
       "https://d2w53g1q050m78.cloudfront.net/futsunoshop/ec_assets/69a99c84b3d9846726ff0b5fe54834f2ff1d8fdc-original.jpg?1706145646",
       "https://d2w53g1q050m78.cloudfront.net/futsunoshop/ec_assets/306ca5522f6c56a360258867a8cc9dd6608b05db-original.jpg?1706145656"
     ],
-    "price": 3800,
+    "price": "3,800 [税込]",
     "title": "塗っても、混ぜてもつかえる万能品。",
     "description": "味を変えるのではなく、味を伸ばす調味料というふつうのマヨネーズの考え方をケチャップに。強すぎても、弱すぎてもだめという繊細で絶妙なバランスを、4時間以上トマトを煮詰めることで瓶に閉じ込めました。ケチャップでありながら、トマトソースのように料理にも使える万能品です。",
     "sale_flag": true,
@@ -35,7 +35,7 @@
       "https://d2w53g1q050m78.cloudfront.net/futsunoshop/ec_assets/3d6658b2ba268f7c29258092c171472c4cbbdb80-original.jpg?1706145626",
       "https://d2w53g1q050m78.cloudfront.net/futsunoshop/ec_assets/e71632a364b9166dbdee67cc08908e0d9342eb12-original.jpg?1706145635"
     ],
-    "price": 3480,
+    "price": "3,480 [税込]",
     "title": "塩味とうま味で、2回旨くなる。",
     "description": "食卓の多種多様な食材・料理に使用される塩。塩が変わることは、食卓が変わることといっても過言ではありません。洗滌天日塩をベースに昆布やホタテといったうま味成分を調合していくことで、食材の味を輪郭を浮かび上がらせる塩味に、味を底上げするうま味が加わりました。ぜひ食べ比べてその違いを感じてみてください。",
     "sale_flag": false,
@@ -49,7 +49,7 @@
       "https://d2w53g1q050m78.cloudfront.net/futsunoshop/ec_assets/6d82ef1a916f94184ee982c417cc040dbd4c1832-original.jpg?1706145758",
       "https://d2w53g1q050m78.cloudfront.net/futsunoshop/ec_assets/e71a9f8c84af2300555acb706bb22a35082a2709-original.jpg?1706145774"
     ],
-    "price": 1800,
+    "price": "1,800 [税込]",
     "title": "素材味のドレッシング。",
     "description": "「ふつうのドレッシング」が目指したのは、野菜に味を加えるのではなく、野菜の味を伸ばすこと。甘味、酸味、塩味、うま味の全てが美しく打ち消し合う「調和点」ともいえるポイントを見出し、その製品化を実現しました。",
     "sale_flag": true,
