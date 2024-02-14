@@ -4,7 +4,7 @@ import fs from 'fs/promises';
 
 const accessToken = 'EAAKP9iIX3hEBO9oS8ZAeKOy6ajilttWNmFjJ3MdZCt56HONOcnSdemjrQMO0EfcH41zgZA1Rg55HAhzCLZAiZAuAWVvpFY2TwgozuGQRHzTrea2ZAB0orPRd02Mu4ZBZC3105ZBTA8GUIaKXZCNZA1I8HzpLfaR5cZBCIKFZAmcHumxA8YLUpLjEv62OlZAr9HZCwYNTAIZD';
 const userId = '17841445292986925';
-const hashtags = ['ふつうのマヨネーズ']; // 例
+const hashtags = ['ふつうのマヨネーズ', 'ふつうのケチャップ', 'ふつうの塩', 'ふつうのドレッシング']; // 例
 
 // ハッシュタグIDに基づいて関連する投稿のデータを取得する関数
 async function fetchPostsByHashtagId(hashtagId) {
@@ -32,7 +32,7 @@ async function main() {
             const postsData = await fetchPostsByHashtagId(hashtagId);
             if (postsData) {
                 // 投稿データをファイルに保存
-                await fs.writeFile(`./data/${hashtag}_posts.json`, JSON.stringify(postsData, null, 2));
+                await fs.writeFile(`./public/data/${hashtag}_posts.json`, JSON.stringify(postsData, null, 2));
                 console.log(`Posts data for hashtag "${hashtag}" saved.`);
             }
         } catch (error) {
